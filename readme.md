@@ -1,3 +1,3 @@
-#Bungee Utils (ping)
+# Bungee Utils (ping)
 
-This is a bungeecord plugin to get the ping ingame with /ping
+This is a Bungeecord plugin to get the ping in-game with /ping
